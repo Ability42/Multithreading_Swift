@@ -71,7 +71,7 @@ func fetchImage3() {
     task.resume()
 }
 
-// Async wrapper with sync operation
+// Async wrapper with sync operation :)
 
 func asyncLoadImage(imageURL: URL,
                     runQueue: DispatchQueue,
